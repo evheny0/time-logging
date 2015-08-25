@@ -6,6 +6,6 @@
 
 `tl -stop 'task name'` stop taks log and show time
 
-`tl -srart_pause` and `tl -stop_pause` for pause
+`tl -start_pause` and `tl -stop_pause` for pause
 
 `tl -flush` for delete all tasks
